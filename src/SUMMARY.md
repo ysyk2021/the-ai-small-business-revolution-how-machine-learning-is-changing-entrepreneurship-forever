@@ -1,7 +1,6 @@
 # Summary
 
 - [Chapter 1: Introduction](README.md)
-  - [Overview of the book](chapter-1-1.md)
   - [Why utilizing AI is important for small businesses](chapter-1-2.md)
 - [Chapter 2: Understanding AI in Small Business](chapter-2.md)
   - [Historical overview of AI in small businesses](chapter-2-1.md)
@@ -34,6 +33,5 @@
 - [Chapter 9: The AI Small Business Revolution](chapter-9.md)
   - [Impact of AI on entrepreneurship](chapter-9-1.md)
   - [Opportunities for innovation and growth](chapter-9-2.md)
-- [Chapter 10: Conclusion](chapter-10.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
