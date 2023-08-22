@@ -1,5 +1,4 @@
-Historical Overview of AI in Small Businesses
-============================================================================================
+
 
 Artificial intelligence has become a ubiquitous topic in the business world, but its history dates back several decades. In this chapter, we'll provide a historical overview of AI in small businesses to help readers understand how AI has evolved and where it is headed.
 

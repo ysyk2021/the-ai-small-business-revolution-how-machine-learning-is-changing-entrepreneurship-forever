@@ -1,5 +1,4 @@
-Ensuring Transparency and Accountability
-==================================================================================
+
 
 Managing AI in small business requires a focus on transparency and accountability. In this chapter, we'll explore the importance of ensuring that AI-powered tools and technologies are transparent and accountable, and provide guidance on how small businesses can achieve this.
 

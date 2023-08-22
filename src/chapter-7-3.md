@@ -1,5 +1,4 @@
-Addressing Potential Bias
-===================================================================
+
 
 Addressing potential bias in AI is essential when managing AI in small business. In this chapter, we'll explore what AI bias is, why it's a concern, and how small businesses can address potential bias in their AI systems.
 
