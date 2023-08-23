@@ -1,5 +1,4 @@
 
-
 Artificial intelligence (AI) has become an increasingly popular tool for small businesses looking to improve efficiency, productivity, and customer service. In this chapter, we'll provide a comprehensive overview of AI in small business, including its historical development, types of AI used in small businesses, and how it works.
 
 Historical Overview of AI in Small Businesses

@@ -1,5 +1,4 @@
 
-
 As small businesses increasingly incorporate AI into their operations, it's important to consider the ethical implications of these technologies. In this chapter, we'll explore some of the key ethical challenges associated with AI in small business and strategies for addressing them.
 
 Challenge 1: Bias and Discrimination

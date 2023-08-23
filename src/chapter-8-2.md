@@ -1,5 +1,4 @@
 
-
 The future of AI in small business is full of potential challenges and opportunities. In this chapter, we'll explore some of the key considerations for small businesses as they navigate this rapidly evolving landscape.
 
 Potential Challenges

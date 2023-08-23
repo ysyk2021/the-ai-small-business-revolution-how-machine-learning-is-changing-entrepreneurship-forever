@@ -1,5 +1,4 @@
 
-
 The future of AI in small business is rapidly evolving, and it's essential for small businesses to prepare for what's to come. In this chapter, we'll explore some of the emerging trends and technologies in AI and provide guidance on how small businesses can prepare for the future.
 
 Emerging Trends in AI

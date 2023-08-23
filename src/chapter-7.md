@@ -1,5 +1,4 @@
 
-
 Managing AI in small business requires careful consideration and planning to ensure that AI-powered tools and technologies are effective, efficient, and ethical. In this chapter, we'll explore some of the key considerations for managing AI in small business, including data management, ensuring transparency and accountability, and addressing potential bias.
 
 Data Management

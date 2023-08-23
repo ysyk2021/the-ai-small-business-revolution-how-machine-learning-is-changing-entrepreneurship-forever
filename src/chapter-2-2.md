@@ -1,5 +1,4 @@
 
-
 Small businesses can leverage a variety of AI technologies to automate tasks, improve decision-making, and enhance customer service. In this chapter, we'll explore some of the most common types of AI used in small businesses.
 
 Rule-Based Systems

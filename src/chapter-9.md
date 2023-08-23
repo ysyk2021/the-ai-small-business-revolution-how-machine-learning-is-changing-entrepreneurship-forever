@@ -1,5 +1,4 @@
 
-
 The AI small business revolution is transforming the way we think about entrepreneurship. In this chapter, we'll explore the impact of AI on entrepreneurship and the opportunities for innovation and growth that it provides.
 
 Impact of AI on Entrepreneurship

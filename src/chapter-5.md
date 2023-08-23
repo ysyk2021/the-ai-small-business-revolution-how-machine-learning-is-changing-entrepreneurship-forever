@@ -1,5 +1,4 @@
 
-
 As machine learning continues to advance, small businesses are finding new and innovative ways to incorporate AI into their operations. In this chapter, we'll explore some of the key applications of AI in small business.
 
 Customer Service and Support
