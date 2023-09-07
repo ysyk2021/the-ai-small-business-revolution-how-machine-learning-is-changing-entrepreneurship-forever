@@ -8,3 +8,7 @@ The AI Small Business Revolution is designed for small business owners and entre
 Overall, the goal of this book is to provide an understanding of how AI technology can be used to transform small business operations. By exploring AI-powered techniques and strategies, small business owners can gain insights and ideas for integrating these technologies into their own decision-making processes, leading to more effective results. With the help of the AI Small Business Revolution, entrepreneurs can leverage the power of AI technology to drive innovation and achieve success in their business endeavors.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
