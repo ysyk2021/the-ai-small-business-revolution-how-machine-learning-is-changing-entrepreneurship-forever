@@ -1,5 +1,4 @@
-Chapter 7: Ethical Considerations
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the era of the AI small business revolution, where machine learning is reshaping entrepreneurship, ethical considerations play a pivotal role. This chapter explores the ethical challenges and responsibilities that entrepreneurs and small business owners must navigate as they integrate AI and machine learning into their operations.
 

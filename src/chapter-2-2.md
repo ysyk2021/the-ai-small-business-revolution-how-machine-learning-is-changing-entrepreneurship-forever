@@ -1,5 +1,4 @@
-Chapter 6: Types of AI in Small Businesses
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the diverse range of AI applications within small businesses, illustrating how these technologies are reshaping entrepreneurship in various domains.
 

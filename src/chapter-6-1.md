@@ -1,5 +1,4 @@
-Chapter 9: Developing an AI Strategy
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the ever-evolving landscape of entrepreneurship, developing a comprehensive AI strategy is essential for harnessing the transformative potential of machine learning and AI. This chapter explores the key steps and considerations for creating a robust AI strategy for small businesses.
 

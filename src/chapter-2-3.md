@@ -1,5 +1,4 @@
-Chapter 5: How AI Works in Small Businesses
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the mechanics of how AI functions within small businesses, demystifying the complex processes and shedding light on how machine learning technologies are transforming entrepreneurship.
 

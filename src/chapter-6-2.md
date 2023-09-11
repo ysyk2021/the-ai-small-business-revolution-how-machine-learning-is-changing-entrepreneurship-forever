@@ -1,5 +1,4 @@
-Chapter 6: Overcoming Resistance to Change
-==========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the journey towards the AI small business revolution, one of the most significant obstacles entrepreneurs and business owners may encounter is resistance to change. This chapter delves into the challenges posed by resistance and provides strategies for overcoming it to embrace the transformative power of machine learning and AI.
 

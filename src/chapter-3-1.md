@@ -1,5 +1,4 @@
-Chapter 3: Enhanced Decision-Making and Problem-Solving
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we dive into the profound impact of machine learning on enhancing decision-making and problem-solving capabilities for small businesses, ushering in a new era of entrepreneurship in the AI-driven small business revolution.
 

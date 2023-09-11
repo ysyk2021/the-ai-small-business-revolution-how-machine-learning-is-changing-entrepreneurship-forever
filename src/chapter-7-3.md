@@ -1,5 +1,4 @@
-Chapter 6: Addressing Potential Bias
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical issue of bias in AI and machine learning and how it impacts the small business revolution. Understanding, identifying, and addressing potential bias in AI systems is essential for ensuring fairness, equity, and ethical decision-making.
 

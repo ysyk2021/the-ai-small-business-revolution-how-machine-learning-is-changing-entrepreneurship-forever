@@ -1,5 +1,4 @@
-Chapter 7: Ensuring Transparency and Accountability
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the critical importance of transparency and accountability in the AI-driven small business revolution. As machine learning becomes increasingly integrated into entrepreneurship, it's essential to establish ethical practices and mechanisms that promote transparency and accountability.
 

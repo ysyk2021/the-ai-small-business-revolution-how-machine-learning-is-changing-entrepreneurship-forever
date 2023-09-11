@@ -1,5 +1,4 @@
-Chapter 6: Potential Challenges and Opportunities
-=================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we explore the multifaceted landscape of potential challenges and opportunities that entrepreneurs face in the era of the AI small business revolution. While AI and machine learning offer unprecedented possibilities, they also present unique hurdles and considerations.
 

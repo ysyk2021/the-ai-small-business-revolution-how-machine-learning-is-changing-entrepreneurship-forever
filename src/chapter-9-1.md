@@ -1,5 +1,4 @@
-Chapter 2: Impact of AI on Entrepreneurship
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we delve into the transformative impact of artificial intelligence (AI) on entrepreneurship, exploring how machine learning is reshaping the landscape of small businesses and ushering in an era of unprecedented innovation and growth.
 

@@ -1,5 +1,4 @@
-Chapter 2: Historical Overview of AI in Small Businesses
-========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 To understand the profound impact of machine learning and AI on small businesses today, it's essential to explore the historical evolution of AI technologies within the entrepreneurial landscape. This chapter provides an overview of key milestones and developments that have shaped the integration of AI into small businesses over the years.
 
